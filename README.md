@@ -1,0 +1,1 @@
+# -werewolf-mafia-rules
